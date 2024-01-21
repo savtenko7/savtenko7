@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-Open to work, remote or Samara/Saint-Petersburg. Stack: Django, FastAPI
+Open to work, remote or Samara/Saint-Petersburg. 
+Stack: Django, FastAPI
 
 * 🌍  I'm based in Samara
 * ✉️  You can contact me at [savtenko7@gmail.com](mailto:savtenko7@gmail.com)
