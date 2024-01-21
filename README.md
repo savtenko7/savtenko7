@@ -6,7 +6,7 @@ Backend developer
 -----------------
 
 Open to work, remote or Samara/Saint-Petersburg. 
-Stack: Django, FastAPI
+Stack: Django, FastAPI, PostgreSQL
 
 * 🌍  I'm based in Samara
 * ✉️  You can contact me at [savtenko7@gmail.com](mailto:savtenko7@gmail.com)
